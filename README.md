@@ -1,2 +1,1 @@
-##描述
 胖橘Agent体验卡，用于让claude code或者openclaw使用甄嬛传的角色进行对话
